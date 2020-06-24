@@ -1,4 +1,3 @@
 # BackupLaravel
-Backup files of Laravel projects.
 
-Test.
+Backup files of Laravel projects.
