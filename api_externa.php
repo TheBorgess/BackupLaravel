@@ -1,5 +1,7 @@
 <?php
 
+//OLD VERSION
+
 $url  = "https://api.hgbrasil.com/finance"; //API EXTERNA
 
 $data = file_get_contents($url);  
